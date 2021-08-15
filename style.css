@@ -1,0 +1,90 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+h1
+{
+    font-size: 40px;
+}
+h2
+{
+    font-size: 40px;
+}
+.last-part
+{
+    font-size: 30px;
+}
+p
+{
+    color: dimgray;
+}
+.name_highlight
+{
+    color: orange;
+}
+.half-width
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+#photo
+{
+    margin-top: 20%;
+    width: 70%;
+    margin-left: 20%;
+}
+#top
+{
+    background-image: url("resources/img/bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.hair_me
+{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, orange);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+section
+{
+    height: 550px;
+}
+.dream
+{
+    background-image: url("resources/img/blue-gradient-white-linear-1920x1080-c2-87cefa-ffffff-a-270-f-14.png");
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+}
+.border
+{
+    box-shadow: 20px 20px 40px gray;
+    padding: 20px;
+    border-radius: 10px;
+    height: 60%;
+}
+.experience
+{
+    background-image: url("resources/img/PngItem_1226499.png");
+    background-repeat: no-repeat;
+    background-size: 80px;
+    background-position: left;
+}
+#bor1
+{
+    border-left: 7px solid ;
+    border-image: linear-gradient(lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#bor2
+{
+    border-left: 7px solid ;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+footer
+{
+    text-align: center;
+}
